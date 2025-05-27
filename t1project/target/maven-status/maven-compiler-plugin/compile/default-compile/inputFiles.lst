@@ -1,0 +1,16 @@
+/app/src/main/java/t1project/T1projectApplication.java
+/app/src/main/java/t1project/aspect/LogDataSourceError.java
+/app/src/main/java/t1project/aspect/LogDataSourceErrorAspect.java
+/app/src/main/java/t1project/config/TestDataInitializer.java
+/app/src/main/java/t1project/controller/AccountController.java
+/app/src/main/java/t1project/controller/TransactionController.java
+/app/src/main/java/t1project/model/Account.java
+/app/src/main/java/t1project/model/Client.java
+/app/src/main/java/t1project/model/DataSourceErrorLog.java
+/app/src/main/java/t1project/model/Transaction.java
+/app/src/main/java/t1project/repository/AccountRepository.java
+/app/src/main/java/t1project/repository/ClientRepository.java
+/app/src/main/java/t1project/repository/DataSourceErrorLogRepository.java
+/app/src/main/java/t1project/repository/TransactionRepository.java
+/app/src/main/java/t1project/service/AccountService.java
+/app/src/main/java/t1project/service/TransactionService.java
