@@ -1,0 +1,8 @@
+package t1project.aspect;
+
+import java.lang.annotation.*;
+
+@Retention(RetentionPolicy.RUNTIME)
+@Target(ElementType.METHOD)
+public @interface Cached {
+}
