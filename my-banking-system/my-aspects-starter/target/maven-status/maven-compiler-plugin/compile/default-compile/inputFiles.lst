@@ -1,0 +1,12 @@
+C:\Users\alexe\IdeaProjects\my-banking-system\my-aspects-starter\src\main\java\com\mybank\starter\aspects\config\AspectsAutoConfiguration.java
+C:\Users\alexe\IdeaProjects\my-banking-system\my-aspects-starter\src\main\java\com\mybank\starter\aspects\model\TimeLimitExceedLog.java
+C:\Users\alexe\IdeaProjects\my-banking-system\my-aspects-starter\src\main\java\com\mybank\starter\aspects\App.java
+C:\Users\alexe\IdeaProjects\my-banking-system\my-aspects-starter\src\main\java\com\mybank\starter\aspects\aspect\Cached.java
+C:\Users\alexe\IdeaProjects\my-banking-system\my-aspects-starter\src\main\java\com\mybank\starter\aspects\aspect\LogDataSourceError.java
+C:\Users\alexe\IdeaProjects\my-banking-system\my-aspects-starter\src\main\java\com\mybank\starter\aspects\repository\TimeLimitExceedLogRepository.java
+C:\Users\alexe\IdeaProjects\my-banking-system\my-aspects-starter\src\main\java\com\mybank\starter\aspects\aspect\MetricAspect.java
+C:\Users\alexe\IdeaProjects\my-banking-system\my-aspects-starter\src\main\java\com\mybank\starter\aspects\aspect\Metric.java
+C:\Users\alexe\IdeaProjects\my-banking-system\my-aspects-starter\src\main\java\com\mybank\starter\aspects\aspect\LogDataSourceErrorAspect.java
+C:\Users\alexe\IdeaProjects\my-banking-system\my-aspects-starter\src\main\java\com\mybank\starter\aspects\aspect\CachedAspect.java
+C:\Users\alexe\IdeaProjects\my-banking-system\my-aspects-starter\src\main\java\com\mybank\starter\aspects\repository\DataSourceErrorLogRepository.java
+C:\Users\alexe\IdeaProjects\my-banking-system\my-aspects-starter\src\main\java\com\mybank\starter\aspects\model\DataSourceErrorLog.java
