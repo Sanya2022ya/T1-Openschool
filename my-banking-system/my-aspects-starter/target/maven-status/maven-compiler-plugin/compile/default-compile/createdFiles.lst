@@ -1,0 +1,13 @@
+com\mybank\starter\aspects\aspect\LogDataSourceError.class
+com\mybank\starter\aspects\aspect\Cached.class
+com\mybank\starter\aspects\repository\DataSourceErrorLogRepository.class
+com\mybank\starter\aspects\repository\TimeLimitExceedLogRepository.class
+com\mybank\starter\aspects\model\DataSourceErrorLog.class
+com\mybank\starter\aspects\aspect\MetricAspect.class
+com\mybank\starter\aspects\aspect\LogDataSourceErrorAspect.class
+com\mybank\starter\aspects\aspect\Metric.class
+com\mybank\starter\aspects\config\AspectsAutoConfiguration.class
+com\mybank\starter\aspects\aspect\CachedAspect$CacheEntry.class
+com\mybank\starter\aspects\aspect\CachedAspect.class
+com\mybank\starter\aspects\model\TimeLimitExceedLog.class
+com\mybank\starter\aspects\App.class
